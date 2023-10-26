@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahima
-- 👀 I’m interested in React.JS ,Next.JS and JavaScript.
+- 👀 I’m interested in talking about React.JS ,Next.JS and JavaScript.
 - 🌱 I’m currently learning ReactNative and Redux.
 - 💞️ I’m looking to collaborate for React.js projects.
 - 📫 How to reach me ==> https://www.linkedin.com/in/mahima21jul/ 
